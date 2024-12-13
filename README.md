@@ -99,6 +99,4 @@
 [instagram]: http://malbang9.dothome.co.kr
 
 <br><br><br><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=김형섭&show_icons=true&theme=radical)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungSub&show_icons=true&theme=radical)
