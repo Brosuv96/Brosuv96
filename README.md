@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm KimHyungSub Downey Jr.</h1>
+<h1 align="center">Hi, I'm Kim HyungSub</h1>
 <h3 align="center">
   Front-End & Back-End 풀스택 개발자 김형섭입니다.
 </h3>
