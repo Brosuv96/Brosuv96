@@ -99,6 +99,6 @@
 [instagram]: http://malbang9.dothome.co.kr
 
 <br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=김형섭&show_icons=true&theme=radical)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
