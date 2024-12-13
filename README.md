@@ -44,6 +44,9 @@
 - 2024.05.28 ~ 2024-12-16 : [이젠 컴퓨터 아카데미] 자바풀스택 과정 수료 
 <br /><br />
 
+<p>## 리액트 프로젝트 링크</p>
+1. https://brosuv96.github.io/react/ <br>
+2. https://brosuv96.github.io/weather/ <br>
 
 <br />
 
