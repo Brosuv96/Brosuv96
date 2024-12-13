@@ -45,8 +45,8 @@
 <br /><br />
 
 <p>## 리액트 프로젝트 링크</p>
-1. https://brosuv96.github.io/react/ <br>
-2. https://brosuv96.github.io/weather/ <br>
+1. 영화 '곤지암' 홍보사이트: https://brosuv96.github.io/react/ <br>
+2. 날씨정보 APP: https://brosuv96.github.io/weather/ <br>
 
 <br />
 
